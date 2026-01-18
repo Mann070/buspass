@@ -1,0 +1,7 @@
+{
+  "name": "SIMATS Transport Portal",
+  "description": "A digital bus pass and transport management portal for SIMATS students, featuring real-time validity tracking and profile management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
